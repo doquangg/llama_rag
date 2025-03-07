@@ -1,0 +1,7 @@
+langchain
+langchain-huggingface
+langchain-chroma
+torch
+transformers
+datasets
+numpy==1.26.4
